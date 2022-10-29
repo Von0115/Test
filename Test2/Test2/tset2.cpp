@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
-int main()    \\输入8个数比较出最大的数
+int main()    //输入8个数比较出最大的数
 {  //定义数组
 	int arr[8] = {0};
 	//输入
