@@ -1,15 +1,15 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
-int main()
-{  //¶¨ÒåÊý×é
+int main()    \\è¾“å…¥8ä¸ªæ•°æ¯”è¾ƒå‡ºæœ€å¤§çš„æ•°
+{  //å®šä¹‰æ•°ç»„
 	int arr[8] = {0};
-	//ÊäÈë
+	//è¾“å…¥
 	int i = 0;
 	for(i=0;i<8;i++)
 	{
 		scanf("%d", &arr[i]);
 	}
-   //±È½Ï´óÐ¡
+   //æ¯”è¾ƒå¤§å°
 	int max = arr[0];
 	for (i = 0; i < 8; i++)
 	{
@@ -18,7 +18,7 @@ int main()
 			max = arr[i];
 		}
 	}
-   //Êä³ö
+   //è¾“å‡º
 	printf("max=%d\n", max);
 
 	return 0;
