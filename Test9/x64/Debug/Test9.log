@@ -1,0 +1,12 @@
+﻿  test9.cpp
+D:\Vs2022\Test9\Test9\test9.cpp(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Vs2022\Test9\Test9\test9.cpp(13,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Vs2022\Test9\Test9\test9.cpp(14,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Vs2022\Test9\Test9\test9.cpp(14,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Vs2022\Test9\Test9\test9.cpp(15,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Vs2022\Test9\Test9\test9.cpp(15,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Vs2022\Test9\Test9\test9.cpp(16,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Vs2022\Test9\Test9\test9.cpp(16,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Vs2022\Test9\Test9\test9.cpp(17,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Vs2022\Test9\Test9\test9.cpp(17,9): message : 请考虑在格式字符串中使用“%zd”
+  Test9.vcxproj -> D:\Vs2022\Test9\x64\Debug\Test9.exe
