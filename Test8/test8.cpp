@@ -7,5 +7,5 @@ int main()
 	printf("%d\n", 4*ADD(2, 3)); //8
    return 0;
 }                  
-//Èô¸ÄÎª#define  ADD(x,y) ((x)+(y))
-//printf("%d\n", 4 * ADD(2, 3))µÄÊä³öÖµ²ÅÎª20
+//è‹¥æ”¹ä¸º#define  ADD(x,y) ((x)+(y))
+//printf("%d\n", 4 * ADD(2, 3))çš„è¾“å‡ºå€¼æ‰ä¸º20
