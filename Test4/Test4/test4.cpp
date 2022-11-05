@@ -6,11 +6,11 @@ int main()
 	scanf("%d", &a);
 		if (a%2==1)
 		{
-		    printf("ÆæÊı\n");
+		    printf("å¥‡æ•°\n");
 		}
 		else
 		{
-			printf("Å¼Êı\n");
+			printf("å¶æ•°\n");
 		}
 
 	return 0;
