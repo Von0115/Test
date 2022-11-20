@@ -1,0 +1,4 @@
+﻿  test19.c
+D:\Vs2022\Test19\Test19\test19.c(6,2): warning C4013: “system”未定义；假设外部返回 int
+D:\Vs2022\Test19\Test19\test19.c(11,7): warning C4013: “strcmp”未定义；假设外部返回 int
+  Test19.vcxproj -> D:\Vs2022\Test19\x64\Debug\Test19.exe
