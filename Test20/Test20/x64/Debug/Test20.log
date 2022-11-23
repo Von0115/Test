@@ -1,0 +1,4 @@
+﻿  test20.c
+D:\Vs2022\Test20\Test20\test20.c(36,26): warning C4474: printf: 格式字符串中传递的参数太多
+D:\Vs2022\Test20\Test20\test20.c(36,26): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  Test20.vcxproj -> D:\Vs2022\Test20\x64\Debug\Test20.exe
